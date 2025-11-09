@@ -1,0 +1,501 @@
+id,title,body,department,sentiment,date,week
+145,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-01-01,1
+319,Ristorante deludente,"Ristorante molto deludente, cibo freddo e poco gustoso.",F&B,negative,2024-01-01,1
+260,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato.",Reception,negative,2024-01-01,1
+287,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-01-01,1
+337,Colazione ok,"Buffet colazione nella norma, varietà accettabile. Complimenti allo chef.",F&B,neutral,2024-01-01,1
+482,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-01-01,1
+301,Bar caro,"Prezzi del bar esagerati, qualità molto bassa. Servizio da rivedere completamente.",F&B,negative,2024-01-02,1
+262,Problemi prenotazione,"Problemi con la prenotazione, reception non ha saputo risolvere. Servizio decisamente migliorabile.",Reception,negative,2024-01-02,1
+445,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-01-02,1
+62,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni.",Housekeeping,negative,2024-01-02,1
+206,Personale scortese,Personale della reception poco cortese e disponibile.,Reception,negative,2024-01-02,1
+405,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-01-03,1
+37,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni.",Housekeeping,negative,2024-01-03,1
+309,Servizio lento,"Servizio al ristorante lentissimo, cibo arrivato freddo.",F&B,negative,2024-01-04,1
+372,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-01-04,1
+497,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-01-04,1
+189,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta. Disorganizzazione totale.,Reception,positive,2024-01-04,1
+491,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-01-04,1
+375,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose. Servizio da rivedere completamente.",F&B,positive,2024-01-04,1
+340,Cucina eccellente,"Cucina di ottimo livello, piatti tipici preparati benissimo.",F&B,positive,2024-01-05,1
+361,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-01-05,1
+434,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-01-05,1
+161,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-01-05,1
+103,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-01-05,1
+85,Pulizia eccellente,"Stanza sempre pulita e ordinata, cambio asciugamani ogni giorno.",Housekeeping,positive,2024-01-05,1
+52,Camera luminosa,"Stanza luminosa, pulita e accogliente. Ottimo servizio di pulizia. Torneremo sicuramente.",Housekeeping,positive,2024-01-06,1
+274,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-01-06,1
+316,Bar caro,"Prezzi del bar esagerati, qualità molto bassa. Prezzi eccessivi per la qualità offerta.",F&B,negative,2024-01-06,1
+324,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-01-06,1
+416,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok. Prezzi eccessivi per la qualità offerta.",F&B,neutral,2024-01-06,1
+310,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-01-06,1
+471,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-01-07,1
+288,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-01-07,1
+326,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-01-07,1
+130,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto. Prezzo troppo alto per quello che offre.",Housekeeping,positive,2024-01-07,1
+162,Check-in veloce,"Check-in rapido ed efficiente, personale cordiale e disponibile.",Reception,positive,2024-01-07,1
+16,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza. Prezzo troppo alto per quello che offre.",Housekeeping,negative,2024-01-08,2
+90,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine.",Housekeeping,positive,2024-01-08,2
+308,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose. Complimenti allo chef.",F&B,positive,2024-01-08,2
+68,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-01-08,2
+398,Ristorante deludente,"Ristorante molto deludente, cibo freddo e poco gustoso.",F&B,negative,2024-01-08,2
+412,Ristorante normale,"Cibo accettabile, niente di speciale ma nemmeno male.",F&B,neutral,2024-01-08,2
+371,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-01-08,2
+284,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-01-08,2
+240,Problemi prenotazione,"Problemi con la prenotazione, reception non ha saputo risolvere.",Reception,negative,2024-01-08,2
+383,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-01-09,2
+263,Accoglienza perfetta,"Ottima accoglienza, ci hanno fatto sentire subito a nostro agio.",Reception,positive,2024-01-09,2
+57,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni. Prezzo troppo alto per quello che offre.",Housekeeping,negative,2024-01-09,2
+67,Camera degradata,"Camera in pessime condizioni, sporcizia e odore sgradevole. Non tornerò mai più.",Housekeeping,negative,2024-01-09,2
+273,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato.",Reception,positive,2024-01-09,2
+7,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-01-09,2
+373,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media. Qualità eccellente dei prodotti.",F&B,neutral,2024-01-09,2
+13,Stanza trascurata,"Camera molto trascurata, polvere e cattivi odori.",Housekeeping,negative,2024-01-09,2
+384,Cucina eccellente,"Cucina di ottimo livello, piatti tipici preparati benissimo.",F&B,positive,2024-01-09,2
+163,Staff disponibile,Personale sempre pronto ad aiutare con il sorriso.,Reception,positive,2024-01-09,2
+303,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-01-10,2
+173,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili. Disorganizzazione totale.",Reception,neutral,2024-01-10,2
+339,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-01-10,2
+216,Problemi prenotazione,"Problemi con la prenotazione, reception non ha saputo risolvere. Servizio clienti eccezionale.",Reception,negative,2024-01-10,2
+264,Reception standard,"Servizio nella norma, niente di particolare da segnalare. Mai più in questo hotel.",Reception,neutral,2024-01-10,2
+201,Personale scortese,Personale della reception poco cortese e disponibile.,Reception,negative,2024-01-10,2
+60,Letto comodo,Il letto era comodissimo e la camera profumava di pulito.,Housekeeping,positive,2024-01-10,2
+376,Ristorante normale,"Cibo accettabile, niente di speciale ma nemmeno male.",F&B,neutral,2024-01-11,2
+243,Check-in veloce,"Check-in rapido ed efficiente, personale cordiale e disponibile.",Reception,positive,2024-01-11,2
+494,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-01-11,2
+452,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-01-11,2
+485,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-01-11,2
+411,Cibo scadente,"Cibo di pessima qualità, colazione immangiabile.",F&B,negative,2024-01-11,2
+94,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti.",Housekeeping,negative,2024-01-12,2
+114,Letto comodo,Il letto era comodissimo e la camera profumava di pulito.,Housekeeping,positive,2024-01-12,2
+44,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti. Rapporto qualità-prezzo ottimo.",Housekeeping,negative,2024-01-12,2
+389,Ristorante deludente,"Ristorante molto deludente, cibo freddo e poco gustoso. Prezzi eccessivi per la qualità offerta.",F&B,negative,2024-01-12,2
+377,Bar caro,"Prezzi del bar esagerati, qualità molto bassa. Prezzi eccessivi per la qualità offerta.",F&B,negative,2024-01-12,2
+10,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine.",Housekeeping,positive,2024-01-12,2
+199,Accoglienza perfetta,"Ottima accoglienza, ci hanno fatto sentire subito a nostro agio. Personale molto professionale.",Reception,positive,2024-01-13,2
+475,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-01-13,2
+186,Reception standard,"Servizio nella norma, niente di particolare da segnalare. Disorganizzazione totale.",Reception,neutral,2024-01-13,2
+220,Esperienza standard,"Reception funzionale, nessun problema particolare.",Reception,neutral,2024-01-13,2
+144,Camera standard,"Camera normale, pulita quanto basta, niente di particolare. Esperienza da dimenticare.",Housekeeping,neutral,2024-01-13,2
+239,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale. Servizio clienti eccezionale.",Reception,negative,2024-01-13,2
+328,Colazione fantastica,"Colazione abbondante e varia, prodotti freschi e di qualità.",F&B,positive,2024-01-13,2
+481,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-01-14,2
+385,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile. Prezzi eccessivi per la qualità offerta.,F&B,positive,2024-01-14,2
+435,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media. Qualità eccellente dei prodotti.",F&B,neutral,2024-01-14,2
+408,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-01-14,2
+469,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-01-14,2
+125,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine. Torneremo sicuramente.",Housekeeping,positive,2024-01-14,2
+27,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma.",Housekeeping,neutral,2024-01-14,2
+314,Cucina mediocre,"Cucina mediocre, piatti senza sapore e mal presentati.",F&B,negative,2024-01-14,2
+72,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-01-15,3
+6,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza. Rapporto qualità-prezzo ottimo.",Housekeeping,negative,2024-01-15,3
+280,Reception standard,"Servizio nella norma, niente di particolare da segnalare. Mai più in questo hotel.",Reception,neutral,2024-01-15,3
+4,Pulizia eccellente,"Stanza sempre pulita e ordinata, cambio asciugamani ogni giorno. Rapporto qualità-prezzo ottimo.",Housekeeping,positive,2024-01-15,3
+272,Servizio accettabile,"Personale della reception cortese, check-in normale. Personale molto professionale.",Reception,neutral,2024-01-15,3
+74,Pulizia eccellente,"Stanza sempre pulita e ordinata, cambio asciugamani ogni giorno.",Housekeeping,positive,2024-01-15,3
+35,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-01-15,3
+276,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale.",Reception,negative,2024-01-15,3
+226,Check-in lento,"Check-in lunghissimo, attesa di oltre 30 minuti alla reception.",Reception,negative,2024-01-16,3
+143,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto.",Housekeeping,positive,2024-01-16,3
+183,Check-out rapido,"Check-out velocissimo senza problemi, personale efficiente.",Reception,positive,2024-01-16,3
+227,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili.",Reception,neutral,2024-01-17,3
+249,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-01-17,3
+261,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato.",Reception,positive,2024-01-17,3
+381,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti. Ottimo rapporto qualità prezzo.",F&B,positive,2024-01-17,3
+54,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie. Prezzo troppo alto per quello che offre.",Housekeeping,negative,2024-01-17,3
+146,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza.",Housekeeping,negative,2024-01-17,3
+14,Camera sporca,"La camera non era pulita all'arrivo, polvere ovunque e bagno sporco.",Housekeeping,negative,2024-01-17,3
+127,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine. Esperienza da dimenticare.",Housekeeping,positive,2024-01-18,3
+299,Check-out rapido,"Check-out velocissimo senza problemi, personale efficiente.",Reception,positive,2024-01-18,3
+238,Staff disponibile,Personale sempre pronto ad aiutare con il sorriso.,Reception,positive,2024-01-18,3
+378,Colazione fantastica,"Colazione abbondante e varia, prodotti freschi e di qualità.",F&B,positive,2024-01-18,3
+404,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile. Prezzi eccessivi per la qualità offerta.,F&B,positive,2024-01-18,3
+282,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili.",Reception,neutral,2024-01-19,3
+265,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-01-19,3
+141,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni. Torneremo sicuramente.",Housekeeping,negative,2024-01-20,3
+51,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni.",Housekeeping,negative,2024-01-20,3
+338,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile. Cibo immangiabile.,F&B,positive,2024-01-20,3
+119,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto.",Housekeeping,positive,2024-01-20,3
+367,Colazione fantastica,"Colazione abbondante e varia, prodotti freschi e di qualità.",F&B,positive,2024-01-20,3
+121,Mancanza pulizia,"Non hanno pulito la camera per tutto il soggiorno, inaccettabile. Esperienza da dimenticare.",Housekeeping,negative,2024-01-20,3
+71,Camera perfetta,"Camera spaziosa, pulita e ben organizzata. Complimenti al personale. Consiglio vivamente questo hotel.",Housekeeping,positive,2024-01-20,3
+136,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-01-21,3
+253,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-01-21,3
+279,Problemi prenotazione,"Problemi con la prenotazione, reception non ha saputo risolvere.",Reception,negative,2024-01-21,3
+193,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta. Disorganizzazione totale.,Reception,positive,2024-01-21,3
+318,Ristorante ottimo,"Ristorante dell'hotel eccellente, piatti buonissimi e ben presentati.",F&B,positive,2024-01-21,3
+442,Cucina eccellente,"Cucina di ottimo livello, piatti tipici preparati benissimo.",F&B,positive,2024-01-21,3
+61,Pulizia eccellente,"Stanza sempre pulita e ordinata, cambio asciugamani ogni giorno. Rapporto qualità-prezzo ottimo.",Housekeeping,positive,2024-01-21,3
+176,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato.",Reception,negative,2024-01-21,3
+441,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti.",F&B,positive,2024-01-21,3
+175,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato.",Reception,positive,2024-01-21,3
+66,Camera luminosa,"Stanza luminosa, pulita e accogliente. Ottimo servizio di pulizia. Prezzo troppo alto per quello che offre.",Housekeeping,positive,2024-01-21,3
+181,Staff disponibile,Personale sempre pronto ad aiutare con il sorriso.,Reception,positive,2024-01-22,4
+433,Servizio ristorante,"Servizio al ristorante veloce e professionale, cibo eccellente.",F&B,positive,2024-01-22,4
+468,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-01-22,4
+356,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-01-22,4
+446,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-01-23,4
+188,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-01-23,4
+438,Colazione scarsa,"Colazione molto scarsa, poca scelta e prodotti di bassa qualità.",F&B,negative,2024-01-23,4
+271,Personale scortese,Personale della reception poco cortese e disponibile.,Reception,negative,2024-01-23,4
+387,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile. Qualità eccellente dei prodotti.,F&B,positive,2024-01-24,4
+187,Esperienza standard,"Reception funzionale, nessun problema particolare.",Reception,neutral,2024-01-24,4
+350,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-01-25,4
+203,Check-in veloce,"Check-in rapido ed efficiente, personale cordiale e disponibile. Servizio decisamente migliorabile.",Reception,positive,2024-01-25,4
+297,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-01-25,4
+184,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta.,Reception,positive,2024-01-25,4
+495,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-01-25,4
+131,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-01-25,4
+192,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili.",Reception,neutral,2024-01-26,4
+281,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-01-26,4
+490,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-01-26,4
+479,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-01-26,4
+252,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta.,Reception,positive,2024-01-27,4
+255,Esperienza standard,"Reception funzionale, nessun problema particolare.",Reception,neutral,2024-01-27,4
+70,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma. Rapporto qualità-prezzo ottimo.",Housekeeping,neutral,2024-01-27,4
+329,Bar caro,"Prezzi del bar esagerati, qualità molto bassa. Cibo immangiabile.",F&B,negative,2024-01-27,4
+296,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato. Servizio decisamente migliorabile.",Reception,negative,2024-01-27,4
+302,Ristorante ottimo,"Ristorante dell'hotel eccellente, piatti buonissimi e ben presentati.",F&B,positive,2024-01-28,4
+113,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-01-28,4
+496,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-01-28,4
+403,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-01-28,4
+450,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-01-28,4
+200,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-01-28,4
+133,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni.",Housekeeping,negative,2024-01-28,4
+210,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-01-28,4
+28,Camera perfetta,"Camera spaziosa, pulita e ben organizzata. Complimenti al personale.",Housekeeping,positive,2024-01-28,4
+87,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine. Prezzo troppo alto per quello che offre.",Housekeeping,positive,2024-01-29,5
+258,Staff disponibile,Personale sempre pronto ad aiutare con il sorriso.,Reception,positive,2024-01-29,5
+440,Colazione fantastica,"Colazione abbondante e varia, prodotti freschi e di qualità.",F&B,positive,2024-01-29,5
+395,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-01-29,5
+235,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato. Servizio decisamente migliorabile.",Reception,positive,2024-01-29,5
+444,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok. Complimenti allo chef.",F&B,neutral,2024-01-29,5
+204,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-01-29,5
+212,Check-out rapido,"Check-out velocissimo senza problemi, personale efficiente. Personale molto professionale.",Reception,positive,2024-01-29,5
+47,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine.",Housekeeping,positive,2024-01-30,5
+31,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-01-30,5
+344,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-01-30,5
+250,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-01-30,5
+80,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-01-30,5
+437,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-01-30,5
+365,Cucina eccellente,"Cucina di ottimo livello, piatti tipici preparati benissimo.",F&B,positive,2024-01-30,5
+211,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-01-31,5
+151,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-01-31,5
+257,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno. Servizio decisamente migliorabile.",Reception,positive,2024-01-31,5
+29,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-01-31,5
+366,Ristorante deludente,"Ristorante molto deludente, cibo freddo e poco gustoso.",F&B,negative,2024-01-31,5
+457,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-01-31,5
+292,Esperienza standard,"Reception funzionale, nessun problema particolare.",Reception,neutral,2024-01-31,5
+315,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti. Servizio da rivedere completamente.",F&B,positive,2024-02-01,5
+105,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie. Prezzo troppo alto per quello che offre.",Housekeeping,negative,2024-02-01,5
+313,Cucina mediocre,"Cucina mediocre, piatti senza sapore e mal presentati.",F&B,negative,2024-02-01,5
+345,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti.",F&B,positive,2024-02-01,5
+123,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-02-01,5
+354,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto. Servizio da rivedere completamente.",F&B,positive,2024-02-01,5
+426,Servizio ristorante,"Servizio al ristorante veloce e professionale, cibo eccellente.",F&B,positive,2024-02-01,5
+343,Cucina mediocre,"Cucina mediocre, piatti senza sapore e mal presentati.",F&B,negative,2024-02-01,5
+126,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-02-01,5
+135,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza.",Housekeeping,negative,2024-02-01,5
+118,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-02-01,5
+24,Stanza trascurata,"Camera molto trascurata, polvere e cattivi odori. Esperienza da dimenticare.",Housekeeping,negative,2024-02-02,5
+202,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-02-02,5
+283,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-02-03,5
+304,Bar caro,"Prezzi del bar esagerati, qualità molto bassa. Qualità eccellente dei prodotti.",F&B,negative,2024-02-03,5
+248,Check-out rapido,"Check-out velocissimo senza problemi, personale efficiente.",Reception,positive,2024-02-03,5
+449,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media. Servizio da rivedere completamente.",F&B,neutral,2024-02-03,5
+84,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-02-03,5
+177,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-02-03,5
+12,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza. Non tornerò mai più.",Housekeeping,negative,2024-02-03,5
+429,Servizio ristorante,"Servizio al ristorante veloce e professionale, cibo eccellente.",F&B,positive,2024-02-03,5
+107,Mancanza pulizia,"Non hanno pulito la camera per tutto il soggiorno, inaccettabile.",Housekeeping,negative,2024-02-03,5
+436,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-02-03,5
+217,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale.",Reception,negative,2024-02-03,5
+234,Esperienza standard,"Reception funzionale, nessun problema particolare. Personale molto professionale.",Reception,neutral,2024-02-03,5
+231,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-02-03,5
+2,Camera perfetta,"Camera spaziosa, pulita e ben organizzata. Complimenti al personale.",Housekeeping,positive,2024-02-03,5
+237,Staff nella media,"Personale educato, servizio sufficiente. Tutto perfetto dall'inizio alla fine.",Reception,neutral,2024-02-04,5
+466,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-02-04,5
+236,Check-in lento,"Check-in lunghissimo, attesa di oltre 30 minuti alla reception.",Reception,negative,2024-02-04,5
+363,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media. Ottimo rapporto qualità prezzo.",F&B,neutral,2024-02-04,5
+333,Colazione fantastica,"Colazione abbondante e varia, prodotti freschi e di qualità.",F&B,positive,2024-02-04,5
+17,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti.",Housekeeping,negative,2024-02-04,5
+410,Colazione ok,"Buffet colazione nella norma, varietà accettabile. Prezzi eccessivi per la qualità offerta.",F&B,neutral,2024-02-05,6
+476,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-02-05,6
+178,Problemi prenotazione,"Problemi con la prenotazione, reception non ha saputo risolvere.",Reception,negative,2024-02-05,6
+100,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti.",Housekeeping,negative,2024-02-05,6
+156,Check-out rapido,"Check-out velocissimo senza problemi, personale efficiente.",Reception,positive,2024-02-05,6
+396,Servizio ristorante,"Servizio al ristorante veloce e professionale, cibo eccellente. Cibo immangiabile.",F&B,positive,2024-02-05,6
+88,Camera degradata,"Camera in pessime condizioni, sporcizia e odore sgradevole. Consiglio vivamente questo hotel.",Housekeeping,negative,2024-02-05,6
+191,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-02-05,6
+353,Servizio lento,"Servizio al ristorante lentissimo, cibo arrivato freddo.",F&B,negative,2024-02-05,6
+165,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato. Tutto perfetto dall'inizio alla fine.",Reception,positive,2024-02-06,6
+208,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale.",Reception,negative,2024-02-06,6
+63,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti.",Housekeeping,negative,2024-02-06,6
+40,Nella media,"Stanza nella media, pulizia discreta, esperienza ok. Non tornerò mai più.",Housekeeping,neutral,2024-02-07,6
+56,Camera sporca,"La camera non era pulita all'arrivo, polvere ovunque e bagno sporco.",Housekeeping,negative,2024-02-07,6
+219,Personale scortese,Personale della reception poco cortese e disponibile. Mai più in questo hotel.,Reception,negative,2024-02-07,6
+225,Check-out rapido,"Check-out velocissimo senza problemi, personale efficiente.",Reception,positive,2024-02-07,6
+172,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-02-08,6
+454,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-02-08,6
+9,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine. Esperienza da dimenticare.",Housekeeping,positive,2024-02-08,6
+41,Mancanza pulizia,"Non hanno pulito la camera per tutto il soggiorno, inaccettabile. Torneremo sicuramente.",Housekeeping,negative,2024-02-08,6
+414,Servizio lento,"Servizio al ristorante lentissimo, cibo arrivato freddo.",F&B,negative,2024-02-09,6
+359,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente. Cibo immangiabile.",F&B,neutral,2024-02-09,6
+142,Camera perfetta,"Camera spaziosa, pulita e ben organizzata. Complimenti al personale.",Housekeeping,positive,2024-02-09,6
+89,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto.",Housekeeping,positive,2024-02-09,6
+20,Letto comodo,Il letto era comodissimo e la camera profumava di pulito. Esperienza da dimenticare.,Housekeeping,positive,2024-02-10,6
+332,Ristorante ottimo,"Ristorante dell'hotel eccellente, piatti buonissimi e ben presentati.",F&B,positive,2024-02-10,6
+293,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta.,Reception,positive,2024-02-10,6
+207,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-02-10,6
+108,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma.",Housekeeping,neutral,2024-02-10,6
+5,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma. Prezzo troppo alto per quello che offre.",Housekeeping,neutral,2024-02-10,6
+439,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti. Complimenti allo chef.",F&B,positive,2024-02-11,6
+391,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-02-11,6
+21,Letto comodo,Il letto era comodissimo e la camera profumava di pulito.,Housekeeping,positive,2024-02-12,7
+360,Servizio lento,"Servizio al ristorante lentissimo, cibo arrivato freddo.",F&B,negative,2024-02-12,7
+170,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale. Mai più in questo hotel.",Reception,negative,2024-02-12,7
+347,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-02-12,7
+106,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine. Consiglio vivamente questo hotel.",Housekeeping,positive,2024-02-12,7
+275,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato. Tutto perfetto dall'inizio alla fine.",Reception,negative,2024-02-13,7
+458,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-02-13,7
+334,Servizio lento,"Servizio al ristorante lentissimo, cibo arrivato freddo.",F&B,negative,2024-02-13,7
+64,Nella media,"Stanza nella media, pulizia discreta, esperienza ok.",Housekeeping,neutral,2024-02-13,7
+358,Colazione scarsa,"Colazione molto scarsa, poca scelta e prodotti di bassa qualità.",F&B,negative,2024-02-13,7
+98,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto.",Housekeeping,positive,2024-02-13,7
+289,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato. Servizio clienti eccezionale.",Reception,positive,2024-02-14,7
+294,Reception standard,"Servizio nella norma, niente di particolare da segnalare. Tutto perfetto dall'inizio alla fine.",Reception,neutral,2024-02-14,7
+459,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-02-14,7
+78,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni. Rapporto qualità-prezzo ottimo.",Housekeeping,negative,2024-02-14,7
+320,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-02-15,7
+167,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta. Personale molto professionale.,Reception,positive,2024-02-15,7
+34,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-02-15,7
+147,Mancanza pulizia,"Non hanno pulito la camera per tutto il soggiorno, inaccettabile.",Housekeeping,negative,2024-02-15,7
+269,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale.",Reception,negative,2024-02-15,7
+418,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-02-16,7
+205,Check-in veloce,"Check-in rapido ed efficiente, personale cordiale e disponibile. Tutto perfetto dall'inizio alla fine.",Reception,positive,2024-02-16,7
+291,Check-in lento,"Check-in lunghissimo, attesa di oltre 30 minuti alla reception.",Reception,negative,2024-02-16,7
+455,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-02-16,7
+388,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-02-16,7
+300,Staff inefficiente,"Personale inefficiente, nessuna risposta alle nostre richieste.",Reception,negative,2024-02-17,7
+115,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine.",Housekeeping,positive,2024-02-17,7
+305,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-02-17,7
+139,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare. Consiglio vivamente questo hotel.",Housekeeping,neutral,2024-02-17,7
+474,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-02-17,7
+488,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-02-18,7
+486,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-02-18,7
+460,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-02-18,7
+480,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-02-18,7
+473,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-02-18,7
+132,Camera luminosa,"Stanza luminosa, pulita e accogliente. Ottimo servizio di pulizia. Torneremo sicuramente.",Housekeeping,positive,2024-02-18,7
+392,Bar caro,"Prezzi del bar esagerati, qualità molto bassa.",F&B,negative,2024-02-18,7
+423,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-02-19,8
+209,Staff disponibile,Personale sempre pronto ad aiutare con il sorriso. Tutto perfetto dall'inizio alla fine.,Reception,positive,2024-02-19,8
+336,Cucina mediocre,"Cucina mediocre, piatti senza sapore e mal presentati.",F&B,negative,2024-02-20,8
+101,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine.",Housekeeping,positive,2024-02-20,8
+443,Ristorante normale,"Cibo accettabile, niente di speciale ma nemmeno male.",F&B,neutral,2024-02-21,8
+180,Staff eccellente,Personale della reception molto professionale e gentile. Servizio decisamente migliorabile.,Reception,positive,2024-02-21,8
+467,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-02-21,8
+171,Personale scortese,Personale della reception poco cortese e disponibile.,Reception,negative,2024-02-21,8
+228,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato.",Reception,negative,2024-02-21,8
+323,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-02-21,8
+152,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato.",Reception,negative,2024-02-21,8
+251,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-02-21,8
+470,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-02-22,8
+148,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza.",Housekeeping,negative,2024-02-22,8
+59,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-02-22,8
+295,Reception disorganizzata,"Reception completamente disorganizzata, caos totale.",Reception,negative,2024-02-22,8
+190,Servizio impeccabile,"Servizio clienti impeccabile, personale molto preparato.",Reception,positive,2024-02-22,8
+55,Nella media,"Stanza nella media, pulizia discreta, esperienza ok.",Housekeeping,neutral,2024-02-22,8
+498,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-02-23,8
+379,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti.",F&B,positive,2024-02-23,8
+420,Cucina eccellente,"Cucina di ottimo livello, piatti tipici preparati benissimo.",F&B,positive,2024-02-24,8
+352,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-02-24,8
+3,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma. Esperienza da dimenticare.",Housekeeping,neutral,2024-02-24,8
+407,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-02-24,8
+18,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-02-24,8
+164,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-02-24,8
+393,Ristorante normale,"Cibo accettabile, niente di speciale ma nemmeno male.",F&B,neutral,2024-02-24,8
+137,Camera ok,"Camera pulita ma un po' vecchia, nel complesso accettabile.",Housekeeping,neutral,2024-02-24,8
+402,Ristorante normale,"Cibo accettabile, niente di speciale ma nemmeno male.",F&B,neutral,2024-02-24,8
+154,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-02-24,8
+417,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente. Cibo immangiabile.",F&B,neutral,2024-02-25,8
+406,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-02-25,8
+242,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-02-25,8
+256,Accoglienza fredda,"Accoglienza molto fredda, nessuna assistenza dal personale.",Reception,negative,2024-02-26,9
+483,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-02-26,9
+129,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie.",Housekeeping,negative,2024-02-26,9
+224,Reception disorganizzata,"Reception completamente disorganizzata, caos totale.",Reception,negative,2024-02-26,9
+306,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok. Complimenti allo chef.",F&B,neutral,2024-02-27,9
+102,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare. Prezzo troppo alto per quello che offre.",Housekeeping,neutral,2024-02-27,9
+400,Colazione scarsa,"Colazione molto scarsa, poca scelta e prodotti di bassa qualità.",F&B,negative,2024-02-27,9
+99,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie.",Housekeeping,negative,2024-02-28,9
+23,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza. Torneremo sicuramente.",Housekeeping,negative,2024-02-28,9
+111,Letto scomodo,"Letto scomodissimo e lenzuola sporche, pessima esperienza.",Housekeeping,negative,2024-02-28,9
+386,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-02-28,9
+342,Colazione ricca,"Buffet colazione molto ricco, c'è davvero di tutto.",F&B,positive,2024-02-28,9
+312,Cucina mediocre,"Cucina mediocre, piatti senza sapore e mal presentati.",F&B,negative,2024-02-28,9
+465,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-02-28,9
+48,Camera standard,"Camera normale, pulita quanto basta, niente di particolare. Consiglio vivamente questo hotel.",Housekeeping,neutral,2024-02-28,9
+254,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-02-29,9
+285,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili. Disorganizzazione totale.",Reception,neutral,2024-02-29,9
+382,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente. Complimenti allo chef.",F&B,neutral,2024-02-29,9
+448,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-02-29,9
+277,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-03-01,9
+168,Staff inefficiente,"Personale inefficiente, nessuna risposta alle nostre richieste.",Reception,negative,2024-03-01,9
+39,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma.",Housekeeping,neutral,2024-03-01,9
+153,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-03-01,9
+453,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-03-02,9
+341,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-03-02,9
+397,Ristorante deludente,"Ristorante molto deludente, cibo freddo e poco gustoso.",F&B,negative,2024-03-03,9
+116,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-03-03,9
+401,Colazione fredda,"Colazione sempre fredda, prodotti vecchi e poco freschi.",F&B,negative,2024-03-03,9
+196,Esperienza standard,"Reception funzionale, nessun problema particolare.",Reception,neutral,2024-03-03,9
+270,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-03-03,9
+185,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-03-03,9
+424,Cibo scadente,"Cibo di pessima qualità, colazione immangiabile.",F&B,negative,2024-03-04,10
+32,Nella media,"Stanza nella media, pulizia discreta, esperienza ok.",Housekeeping,neutral,2024-03-04,10
+472,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-03-05,10
+425,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti.",F&B,positive,2024-03-05,10
+45,Soggiorno nella norma,"Stanza accettabile, pulizia sufficiente, nulla da segnalare.",Housekeeping,neutral,2024-03-05,10
+351,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-03-05,10
+317,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti. Cibo immangiabile.",F&B,positive,2024-03-05,10
+38,Letto comodo,Il letto era comodissimo e la camera profumava di pulito. Torneremo sicuramente.,Housekeeping,positive,2024-03-05,10
+30,Camera perfetta,"Camera spaziosa, pulita e ben organizzata. Complimenti al personale.",Housekeeping,positive,2024-03-05,10
+215,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili. Mai più in questo hotel.",Reception,neutral,2024-03-06,10
+159,Check-in lento,"Check-in lunghissimo, attesa di oltre 30 minuti alla reception.",Reception,negative,2024-03-06,10
+330,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-03-06,10
+86,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti. Rapporto qualità-prezzo ottimo.",Housekeeping,negative,2024-03-06,10
+355,Ristorante ottimo,"Ristorante dell'hotel eccellente, piatti buonissimi e ben presentati.",F&B,positive,2024-03-07,10
+422,Cibo scadente,"Cibo di pessima qualità, colazione immangiabile.",F&B,negative,2024-03-07,10
+182,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili. Mai più in questo hotel.",Reception,neutral,2024-03-08,10
+267,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-03-08,10
+461,Nel complesso ok,"Buona pulizia camera, colazione sufficiente, personale a volte scortese.",Housekeeping,neutral,2024-03-08,10
+65,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine.",Housekeeping,positive,2024-03-08,10
+246,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-03-08,10
+415,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-03-09,10
+73,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie.",Housekeeping,negative,2024-03-09,10
+46,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie.",Housekeeping,negative,2024-03-09,10
+221,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-03-09,10
+447,Cucina eccellente,"Cucina di ottimo livello, piatti tipici preparati benissimo. Complimenti allo chef.",F&B,positive,2024-03-09,10
+247,Staff nella media,"Personale educato, servizio sufficiente. Tutto perfetto dall'inizio alla fine.",Reception,neutral,2024-03-09,10
+110,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto.",Housekeeping,positive,2024-03-09,10
+500,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-03-09,10
+92,Nella media,"Stanza nella media, pulizia discreta, esperienza ok.",Housekeeping,neutral,2024-03-10,10
+477,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-03-10,10
+451,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-03-10,10
+290,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-03-10,10
+229,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili. Tutto perfetto dall'inizio alla fine.",Reception,neutral,2024-03-10,10
+462,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-03-10,10
+374,Servizio lento,"Servizio al ristorante lentissimo, cibo arrivato freddo. Complimenti allo chef.",F&B,negative,2024-03-10,10
+286,Check-in veloce,"Check-in rapido ed efficiente, personale cordiale e disponibile.",Reception,positive,2024-03-10,10
+11,Camera degradata,"Camera in pessime condizioni, sporcizia e odore sgradevole.",Housekeeping,negative,2024-03-10,10
+140,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie. Non tornerò mai più.",Housekeeping,negative,2024-03-11,11
+346,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-03-11,11
+50,Camera impeccabile,"La camera era pulitissima, letto comodo e tutto perfettamente in ordine. Consiglio vivamente questo hotel.",Housekeeping,positive,2024-03-11,11
+223,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-03-11,11
+368,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-03-11,11
+431,Ristorante normale,"Cibo accettabile, niente di speciale ma nemmeno male.",F&B,neutral,2024-03-11,11
+419,Colazione fredda,"Colazione sempre fredda, prodotti vecchi e poco freschi. Qualità eccellente dei prodotti.",F&B,negative,2024-03-11,11
+194,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-03-11,11
+157,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno. Servizio decisamente migliorabile.",Reception,positive,2024-03-11,11
+81,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie.",Housekeeping,negative,2024-03-12,11
+244,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-03-12,11
+259,Staff inefficiente,"Personale inefficiente, nessuna risposta alle nostre richieste.",Reception,negative,2024-03-12,11
+492,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-03-12,11
+348,Ristorante ottimo,"Ristorante dell'hotel eccellente, piatti buonissimi e ben presentati.",F&B,positive,2024-03-12,11
+43,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti. Esperienza da dimenticare.",Housekeeping,negative,2024-03-12,11
+230,Staff nella media,"Personale educato, servizio sufficiente.",Reception,neutral,2024-03-13,11
+169,Personale scortese,Personale della reception poco cortese e disponibile.,Reception,negative,2024-03-13,11
+268,Staff eccellente,Personale della reception molto professionale e gentile. Disorganizzazione totale.,Reception,positive,2024-03-13,11
+399,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-03-13,11
+499,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-03-13,11
+79,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni. Torneremo sicuramente.",Housekeeping,negative,2024-03-14,11
+104,Camera luminosa,"Stanza luminosa, pulita e accogliente. Ottimo servizio di pulizia.",Housekeeping,positive,2024-03-14,11
+82,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-03-14,11
+128,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-03-15,11
+53,Camera degradata,"Camera in pessime condizioni, sporcizia e odore sgradevole. Esperienza da dimenticare.",Housekeeping,negative,2024-03-15,11
+349,Ottimo cibo,Cibo delizioso e servizio al tavolo impeccabile.,F&B,positive,2024-03-15,11
+134,Stanza trascurata,"Camera molto trascurata, polvere e cattivi odori.",Housekeeping,negative,2024-03-15,11
+222,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili.",Reception,neutral,2024-03-15,11
+321,Bar fornitissimo,"Bar ben fornito, personale cordiale e prezzi giusti. Qualità eccellente dei prodotti.",F&B,positive,2024-03-15,11
+42,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni. Esperienza da dimenticare.",Housekeeping,negative,2024-03-15,11
+232,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-03-15,11
+195,Servizio pessimo,"Pessimo servizio, personale incompetente e maleducato. Disorganizzazione totale.",Reception,negative,2024-03-16,11
+245,Accoglienza perfetta,"Ottima accoglienza, ci hanno fatto sentire subito a nostro agio.",Reception,positive,2024-03-16,11
+197,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili.",Reception,neutral,2024-03-16,11
+335,Colazione scarsa,"Colazione molto scarsa, poca scelta e prodotti di bassa qualità.",F&B,negative,2024-03-16,11
+370,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose. Prezzi eccessivi per la qualità offerta.",F&B,positive,2024-03-17,11
+266,Staff inefficiente,"Personale inefficiente, nessuna risposta alle nostre richieste.",Reception,negative,2024-03-17,11
+95,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine.",Housekeeping,positive,2024-03-17,11
+96,Camera sporca,"La camera non era pulita all'arrivo, polvere ovunque e bagno sporco.",Housekeeping,negative,2024-03-17,11
+160,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-03-17,11
+213,Accoglienza perfetta,"Ottima accoglienza, ci hanno fatto sentire subito a nostro agio.",Reception,positive,2024-03-18,12
+166,Personale scortese,Personale della reception poco cortese e disponibile.,Reception,negative,2024-03-18,12
+409,Colazione sufficiente,"Colazione standard, scelta discreta, prodotti nella media.",F&B,neutral,2024-03-18,12
+1,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-03-18,12
+158,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-03-18,12
+322,Colazione fredda,"Colazione sempre fredda, prodotti vecchi e poco freschi. Ottimo rapporto qualità prezzo.",F&B,negative,2024-03-18,12
+327,Ristorante deludente,"Ristorante molto deludente, cibo freddo e poco gustoso.",F&B,negative,2024-03-19,12
+33,Camera sporca,"La camera non era pulita all'arrivo, polvere ovunque e bagno sporco.",Housekeeping,negative,2024-03-20,12
+364,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-03-20,12
+241,Servizio accettabile,"Personale della reception cortese, check-in normale.",Reception,neutral,2024-03-20,12
+19,Camera standard,"Camera normale, pulita quanto basta, niente di particolare.",Housekeeping,neutral,2024-03-20,12
+8,Pulizia giornaliera,"Apprezzo molto la pulizia quotidiana della camera, tutto perfetto.",Housekeeping,positive,2024-03-21,12
+149,Camera disordinata,"Camera disordinata e sporca, lenzuola con macchie.",Housekeeping,negative,2024-03-21,12
+112,Nella media,"Stanza nella media, pulizia discreta, esperienza ok.",Housekeeping,neutral,2024-03-21,12
+58,Pulizia eccellente,"Stanza sempre pulita e ordinata, cambio asciugamani ogni giorno. Torneremo sicuramente.",Housekeeping,positive,2024-03-21,12
+325,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-03-22,12
+91,Camera ok,"Camera pulita ma un po' vecchia, nel complesso accettabile. Esperienza da dimenticare.",Housekeeping,neutral,2024-03-22,12
+278,Personale gentile,Reception sempre disponibile e cortese per qualsiasi richiesta.,Reception,positive,2024-03-22,12
+362,Colazione ok,"Buffet colazione nella norma, varietà accettabile. Prezzi eccessivi per la qualità offerta.",F&B,neutral,2024-03-22,12
+487,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-03-22,12
+109,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile. Non tornerò mai più.",Housekeeping,positive,2024-03-22,12
+218,Reception standard,"Servizio nella norma, niente di particolare da segnalare.",Reception,neutral,2024-03-22,12
+390,Esperienza media,"Cibo e servizio al ristorante nella media, prezzi ok.",F&B,neutral,2024-03-22,12
+331,Colazione monotona,"Colazione monotona, sempre le stesse cose per giorni.",F&B,negative,2024-03-23,12
+214,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-03-23,12
+463,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-03-23,12
+97,Letto comodo,Il letto era comodissimo e la camera profumava di pulito.,Housekeeping,positive,2024-03-23,12
+26,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-03-23,12
+478,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-03-23,12
+464,Bene ma non benissimo,"Check-in veloce, però la stanza aveva dei problemi di pulizia.",Housekeeping,negative,2024-03-24,12
+369,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente. Ottimo rapporto qualità prezzo.",F&B,neutral,2024-03-24,12
+311,Servizio ristorante,"Servizio al ristorante veloce e professionale, cibo eccellente.",F&B,positive,2024-03-24,12
+138,Mancanza pulizia,"Non hanno pulito la camera per tutto il soggiorno, inaccettabile.",Housekeeping,negative,2024-03-24,12
+421,Colazione fantastica,"Colazione abbondante e varia, prodotti freschi e di qualità.",F&B,positive,2024-03-24,12
+357,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-03-24,12
+298,Staff eccellente,Personale della reception molto professionale e gentile.,Reception,positive,2024-03-25,13
+150,Camera luminosa,"Stanza luminosa, pulita e accogliente. Ottimo servizio di pulizia. Non tornerò mai più.",Housekeeping,positive,2024-03-25,13
+233,Check-in normale,"Check-in senza problemi, tempi di attesa accettabili.",Reception,neutral,2024-03-25,13
+380,Colazione ok,"Buffet colazione nella norma, varietà accettabile. Servizio da rivedere completamente.",F&B,neutral,2024-03-25,13
+484,Alcune criticità,"Reception cortese ma tempi lunghi, camera pulita, cibo discreto.",Reception,neutral,2024-03-25,13
+179,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento.",Reception,negative,2024-03-25,13
+93,Camera perfetta,"Camera spaziosa, pulita e ben organizzata. Complimenti al personale.",Housekeeping,positive,2024-03-25,13
+456,Valutazione media,"Ristorante buono, però check-in caotico e camera non perfetta.",F&B,neutral,2024-03-26,13
+120,Mancanza pulizia,"Non hanno pulito la camera per tutto il soggiorno, inaccettabile.",Housekeeping,negative,2024-03-26,13
+307,Colazione ok,"Buffet colazione nella norma, varietà accettabile.",F&B,neutral,2024-03-26,13
+413,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose. Prezzi eccessivi per la qualità offerta.",F&B,positive,2024-03-26,13
+394,Cibo nella media,"Ristorante con cibo ok, servizio sufficiente.",F&B,neutral,2024-03-26,13
+15,Pulizia scarsa,"Scarsa pulizia della stanza, asciugamani non cambiati per giorni.",Housekeeping,negative,2024-03-26,13
+430,Pranzo buonissimo,"Pranzato al ristorante, tutto ottimo e porzioni generose.",F&B,positive,2024-03-26,13
+49,Letto comodo,Il letto era comodissimo e la camera profumava di pulito.,Housekeeping,positive,2024-03-26,13
+69,Camera ok,"Camera pulita ma un po' vecchia, nel complesso accettabile. Rapporto qualità-prezzo ottimo.",Housekeeping,neutral,2024-03-27,13
+36,Camera ok,"Camera pulita ma un po' vecchia, nel complesso accettabile.",Housekeeping,neutral,2024-03-27,13
+124,Bagno sporco,"Il bagno era sporco, presenza di capelli e macchie evidenti.",Housekeeping,negative,2024-03-27,13
+122,Stanza trascurata,"Camera molto trascurata, polvere e cattivi odori.",Housekeeping,negative,2024-03-27,13
+25,Camera luminosa,"Stanza luminosa, pulita e accogliente. Ottimo servizio di pulizia. Torneremo sicuramente.",Housekeeping,positive,2024-03-28,13
+427,Colazione monotona,"Colazione monotona, sempre le stesse cose per giorni. Qualità eccellente dei prodotti.",F&B,negative,2024-03-28,13
+117,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-03-28,13
+493,Esperienza mista,"Camera pulita ma personale poco disponibile, colazione nella media.",Reception,negative,2024-03-28,13
+76,Stanza ben tenuta,"Camera pulita e ben curata, tutto funzionante e in ordine. Esperienza da dimenticare.",Housekeeping,positive,2024-03-28,13
+489,Soggiorno discreto,"Colazione buona ma camera piccola e rumorosa, staff ok.",F&B,neutral,2024-03-28,13
+83,Camera sporca,"La camera non era pulita all'arrivo, polvere ovunque e bagno sporco.",Housekeeping,negative,2024-03-28,13
+432,Cibo scadente,"Cibo di pessima qualità, colazione immangiabile.",F&B,negative,2024-03-29,13
+75,Niente di speciale,"Camera standard, pulizia sufficiente, prezzo nella norma.",Housekeeping,neutral,2024-03-29,13
+428,Servizio ristorante,"Servizio al ristorante veloce e professionale, cibo eccellente.",F&B,positive,2024-03-29,13
+155,Staff disponibile,Personale sempre pronto ad aiutare con il sorriso. Mai più in questo hotel.,Reception,positive,2024-03-30,13
+198,Attesa infinita,"Tempi di attesa assurdi per il check-in, personale lento. Servizio clienti eccezionale.",Reception,negative,2024-03-30,13
+174,Ottima organizzazione,"Reception ben organizzata, nessun problema durante il soggiorno.",Reception,positive,2024-03-30,13
+22,Camera sporca,"La camera non era pulita all'arrivo, polvere ovunque e bagno sporco. Consiglio vivamente questo hotel.",Housekeeping,negative,2024-03-30,13
+77,Ottima pulizia,"Personale di pulizia molto efficiente, camera sempre impeccabile.",Housekeeping,positive,2024-03-30,13
