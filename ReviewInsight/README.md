@@ -29,7 +29,7 @@ Questo prototipo implementa una pipeline completa di Machine Learning per:
 
 ### Installazione
 
-Le dipendenze sono già configurate nel progetto Replit. Se esegui localmente:
+Le dipendenze sono già configurate nel progetto. Se esegui localmente:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn streamlit
